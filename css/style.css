@@ -8,7 +8,10 @@
   
 }
 body{
-  background-color: black;
+  background: url("https://image.shutterstock.com/image-photo/bursting-galaxy-elements-this-image-260nw-1024633576.jpg");
+}
+img{
+  border: red 10px groove;
 }
 p{
   color: white;

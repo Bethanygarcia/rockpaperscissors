@@ -9,9 +9,12 @@
 }
 body{
   background: url("https://image.shutterstock.com/image-photo/bursting-galaxy-elements-this-image-260nw-1024633576.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 img{
   border: red 10px groove;
+  width: 500px;
 }
 p{
   color: white;
@@ -24,4 +27,10 @@ h3{
 }
 h4{
   color:white;
+}
+#userChoice{
+  background-color: black;
+}
+#computerChoice{
+  background-color: black;
 }
